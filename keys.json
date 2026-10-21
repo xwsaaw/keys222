@@ -120,5 +120,85 @@
     "activated_at": null,
     "active": true,
     "hwid": "any"
+  },
+  "EAGLE-1D-WG6M-OA6P": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-BPMM-BSXV": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-1GB2-PXOC": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-Z3YX-2558": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-CAP0-UE8D": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-H5HE-LG2D": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-XDGE-QR4P": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-4CZD-Q7MH": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-GCXF-LWX1": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-L517-0JK0": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
   }
 }
