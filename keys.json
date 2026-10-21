@@ -28,10 +28,10 @@
   "EAGLE-1D-UEJ9-NKD4": {
     "type": "1 Day",
     "duration_hours": 24,
-    "expires": null,
-    "activated_at": null,
+    "expires": "2026-10-22 17:36",
+    "activated_at": "2026-10-21 17:36",
     "active": true,
-    "hwid": "any"
+    "hwid": "3C35607B-5276-64FC-9D55-40B07660C6F1"
   },
   "EAGLE-1D-CQ6I-GBXP": {
     "type": "1 Day",
