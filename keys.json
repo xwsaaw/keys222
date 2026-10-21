@@ -200,5 +200,85 @@
     "activated_at": null,
     "active": true,
     "hwid": "any"
+  },
+  "EAGLE-7D-YM53-H26R": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-V51V-LMBK": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-PTC8-LI4Q": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-2796-81LM": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-BKEZ-OY9X": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-O0TE-DPDO": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-ILP2-UE8Q": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-NVBF-RR2J": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-PQC2-MMAQ": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-7D-TQYI-SR5M": {
+    "type": "7 Days",
+    "duration_hours": 168,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
   }
 }
