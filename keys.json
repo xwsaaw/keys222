@@ -280,5 +280,85 @@
     "activated_at": null,
     "active": true,
     "hwid": "any"
+  },
+  "EAGLE-30D-RMSH-Y96U": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-FEEK-CBL6": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-27BR-YKQQ": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-SD20-YSBX": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-6QRH-HN10": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-U6QN-8K24": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-QB4R-36SJ": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-O8Q9-L2UK": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-JSFP-QTMU": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-30D-36VH-TNM0": {
+    "type": "30 Days",
+    "duration_hours": 720,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
   }
 }
