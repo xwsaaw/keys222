@@ -16,5 +16,29 @@
     "expires": "2026-10-21 23:59",
     "active": true,
     "hwid": "any"
+  },
+  "EAGLE-1D-V8ID-ANYT": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-UEJ9-NKD4": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-1D-CQ6I-GBXP": {
+    "type": "1 Day",
+    "duration_hours": 24,
+    "expires": null,
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
   }
 }
