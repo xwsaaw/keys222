@@ -40,5 +40,85 @@
     "activated_at": null,
     "active": true,
     "hwid": "any"
+  },
+  "EAGLE-LIFE-3PZB-YXOV": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-9371-66ZU": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-JNPP-ZK8Z": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-VYXV-L6GL": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-2KUQ-B9OA": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-NK9N-5HZA": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-ZFFH-AONW": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-5A5G-Z4KC": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-KW5U-HYBT": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
+  },
+  "EAGLE-LIFE-32SE-4T9B": {
+    "type": "Lifetime",
+    "duration_hours": -1,
+    "expires": "lifetime",
+    "activated_at": null,
+    "active": true,
+    "hwid": "any"
   }
 }
