@@ -196,10 +196,10 @@
   "EAGLE-1D-L517-0JK0": {
     "type": "1 Day",
     "duration_hours": 24,
-    "expires": null,
-    "activated_at": null,
+    "expires": "2026-10-22 22:43",
+    "activated_at": "2026-10-21 22:43",
     "active": true,
-    "hwid": "any"
+    "hwid": "3C35607B-5276-64FC-9D55-40B07660C6F1"
   },
   "EAGLE-7D-YM53-H26R": {
     "type": "7 Days",
