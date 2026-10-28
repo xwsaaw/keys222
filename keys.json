@@ -356,9 +356,9 @@
   "EAGLE-30D-36VH-TNM0": {
     "type": "30 Days",
     "duration_hours": 720,
-    "expires": null,
-    "activated_at": null,
+    "expires": "2026-11-27 19:10",
+    "activated_at": "2026-10-28 19:10",
     "active": true,
-    "hwid": "any"
+    "hwid": "3C35607B-5276-64FC-9D55-40B07660C6F1"
   }
 }
